@@ -78,10 +78,10 @@ You are tasked with implementing a responsive website based on the provided requ
 | Last Digit of PH Student ID | Assignment Number (Design No) |
 | --- | --- |
 | 0, 1 | [1](./1-Book-Shop-Assignment-Requirement) |
-| 2, 3 | [1](./2-Bike-Shop-Assignment-Requirement) |
-| 4, 5 | [1](./3-Car-Shop-Assignment-Requirement) |
-| 6, 7 | [1](./4-Bi-Cycle-store-Assignment-Requirement) |
-| 8, 9 | [1](./5-Stationery-Shop-Assignment-Requirement) |
+| 2, 3 | [2](./2-Bike-Shop-Assignment-Requirement) |
+| 4, 5 | [3](./3-Car-Shop-Assignment-Requirement) |
+| 6, 7 | [4](./4-Bi-Cycle-store-Assignment-Requirement) |
+| 8, 9 | [5](./5-Stationery-Shop-Assignment-Requirement) |
 
 ## **Deadline:**
 
