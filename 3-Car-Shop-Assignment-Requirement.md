@@ -4,7 +4,7 @@ Create a Car Shop application with user-friendly features, secure authentication
 
 * * *
 
-## Main Functionalities: 45 Marks
+## Main Functionalities
 
 ### 1\. **User Registration & Authentication (Role-Based)**
 
@@ -59,7 +59,7 @@ Create a Car Shop application with user-friendly features, secure authentication
 
 * * *
 
-## **UI/UX Design: 15 Marks**
+## **UI/UX Design**
 
 *   **Responsive Design:**
     *   Ensure the platform works seamlessly on all screen sizes.
