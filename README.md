@@ -77,7 +77,7 @@ You are tasked with implementing a responsive website based on the provided requ
 
 | Last Digit of PH Student ID | Assignment Number (Design No) |
 | --- | --- |
-| 0, 1 | [1]([https://docs.google.com/document/d/1mMxoWIGJNKDtnbCHAeJzR4Gdi6IZ393G85eLdt6NDns/edit?tab=t.0](https://github.com/Apollo-Level2-Web-Dev/L2B4-Frontend-Track-Assignment-5/blob/main/1%20Book%20Shop%20Assignment%20Requirement)) |
+| 0, 1 | [SET-1](./1 Book Shop Assignment Requirement) |
 | 2, 3 | 2 |
 | 4, 5 | 3 |
 | 6, 7 | 4 |
