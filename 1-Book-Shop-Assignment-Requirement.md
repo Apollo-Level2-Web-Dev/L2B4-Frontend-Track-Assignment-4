@@ -30,7 +30,7 @@ Create a Book Shop application with user-friendly features, secure authenticatio
     *   **Extra Section**: Add relevant e-commerce content, such as testimonials or blogs.
     *   **Footer**: Include essential links, social media icons, and contact details.
 2. **All Products Page:**
-    *       *   **Search Functionality:** Allow users to search by title, author, or category.
+        *   **Search Functionality:** Allow users to search by title, author, or category.
         *   **Filters:** Include options for `price range`, `author`, `category`, and `availability`.
         *   **Dynamic Results:** Results should be updated based on search terms or selected filters.
         *   **Product Cards:** Show details like name, author, price, and category.
