@@ -61,21 +61,21 @@
 *   **Toasts:**
     *   Notify users of important actions (e.g., "Login successful," "Order placed," etc.).
 
-**Recommendation Functionalities (Optional)**
+## **Recommendation Functionalities (Optional)**
 
-        *   **User Side:**
-        *   **Bicycle Comparison Tool:**
-        *   **User Side:**
-        *   Compare up to 3 bicycles side-by-side.
+          **User Side:**
+          **Bicycle Comparison Tool:**
+          **User Side:**
+        *  Compare up to 3 bicycles side-by-side.
         *   Display specifications, pricing, and features to help users make informed decisions.
-        *   **Admin Side:**
-        *   **Sales Dashboard:**
-        *   **Overview Chart:**
+           **Admin Side:**
+           **Sales Dashboard:**
+          **Overview Chart:**
             *   Display a summary of sales data with visual charts (e.g., bar charts, line charts, or pie charts) for better analysis.
-        *   **Key Metrics:**
-            *   **Total Sales Revenue**: Show total revenue over a selectable time period.
-            *   **Units Sold**: Display the number of bicycles sold.
-            *   **Top-Selling Bicycles**: Highlight the most popular models with sales figures.
+           **Key Metrics:**
+              **Total Sales Revenue**: Show total revenue over a selectable time period.
+              **Units Sold**: Display the number of bicycles sold.
+              **Top-Selling Bicycles**: Highlight the most popular models with sales figures.
 
 ## **Backend Requirements:**
 
