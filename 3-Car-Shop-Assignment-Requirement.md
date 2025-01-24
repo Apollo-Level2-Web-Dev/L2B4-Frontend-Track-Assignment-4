@@ -30,7 +30,7 @@ Create a Car Shop application with user-friendly features, secure authentication
     *   **Extra Section**: Add relevant e-commerce content, such as testimonials or blogs.
     *   **Footer**: Include essential links, social media icons, and contact details.
 2. **All Products Page:**
-    *       *   **Search Functionality:** Allow users to search by brand, car name, or category.
+        *   **Search Functionality:** Allow users to search by brand, car name, or category.
         *   **Filters:** Include options for `price range`, model, brand, `category`, and `availability`.
         *   **Dynamic Results:** Results should be updated based on search terms or selected filters.
         *   **Product Cards:** Show details like name, brand, model, price, and category.
@@ -53,7 +53,7 @@ Create a Car Shop application with user-friendly features, secure authentication
         *   **Payment Integration:** Integrate SurjoPay as the payment gateway.
     *   Include an "Order Now" button to confirm the purchase.
 2. **Dashboard (Role-Based Access):**
-    *       *   **Admin Dashboard:** Features include managing users (e.g., deactivating accounts), managing products (CRUD), and managing orders(CRUD).
+        *   **Admin Dashboard:** Features include managing users (e.g., deactivating accounts), managing products (CRUD), and managing orders(CRUD).
         *   **User Dashboard:** Features include viewing orders and managing profile settings.
         *   Allow users to update passwords (require current password for security).
 
