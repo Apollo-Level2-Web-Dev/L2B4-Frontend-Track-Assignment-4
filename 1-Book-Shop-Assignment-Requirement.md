@@ -53,7 +53,7 @@ Create a Book Shop application with user-friendly features, secure authenticatio
         *   **Payment Integration:** Integrate SurjoPay as the payment gateway.
     *   Include an "Order Now" button to confirm the purchase.
 2. **Dashboard (Role-Based Access):**
-    *       *   **Admin Dashboard:** Features include managing users (e.g., deactivating accounts), managing products (CRUD), and managing orders(CRUD).
+        *   **Admin Dashboard:** Features include managing users (e.g., deactivating accounts), managing products (CRUD), and managing orders(CRUD).
         *   **User Dashboard:** Features include viewing orders and managing profile settings.
         *   Allow users to update passwords (require current password for security).
 
