@@ -1,4 +1,4 @@
-### **Book Shop Assignment Requirements**
+### **Stationery Shop Assignment Requirements**
 
 * * *
 
