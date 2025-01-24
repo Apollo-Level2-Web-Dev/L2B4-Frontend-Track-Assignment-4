@@ -64,8 +64,8 @@
 ## **Recommendation Functionalities (Optional)**
 
 *  **User Side:**
-  **Bicycle Comparison Tool:**
-  **User Side:**
+   **Bicycle Comparison Tool:**
+         **User Side:**
         *  Compare up to 3 bicycles side-by-side.
         *   Display specifications, pricing, and features to help users make informed decisions.
   **Admin Side:**
