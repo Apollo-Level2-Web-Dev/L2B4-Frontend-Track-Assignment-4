@@ -61,7 +61,7 @@
 *   **Toasts:**
     *   Notify users of important actions (e.g., "Login successful," "Order placed," etc.).
 
-## **Recommendation Functionalities (Optional)**
+**Recommendation Functionalities (Optional)**
 
 *  **User Side:**
    **Bicycle Comparison Tool:**
