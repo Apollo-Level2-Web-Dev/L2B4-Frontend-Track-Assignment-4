@@ -4,7 +4,7 @@
 
 #### **Project Overview & Objective**
 
-Create a Book Shop application with user-friendly features, secure authentication, and smooth product management. Ensure the platform is responsive, error-free, and visually appealing.
+Create a stationery Shop application with user-friendly features, secure authentication, and smooth product management. Ensure the platform is responsive, error-free, and visually appealing.
 
 * * *
 
