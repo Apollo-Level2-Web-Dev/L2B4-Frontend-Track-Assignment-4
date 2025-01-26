@@ -66,8 +66,8 @@ Create a stationery Shop application with user-friendly features, secure authent
     *   Allow users to place orders for products.
     *   Ensure the ordered quantity does not exceed the product stock.
     *   Include **product details**, **user details**, and **total price calculations**.
-    *   The payment option should be cash on delivery only.
     *   Include an **Order Now** button to confirm the purchase.
+    *   Payment Integration: Integrate SurjoPay, Stripe, or any other payment gateway of your choice.
 *   **Dashboard (Role-Based Access)**:
     *   **Admin Dashboard**:
         *   Manage users (e.g., deactivating accounts).
