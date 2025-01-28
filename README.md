@@ -85,9 +85,9 @@ You are tasked with implementing a responsive website based on the provided requ
 
 ## **Deadline:**
 
-- 60 marks: January 28, 2025 11.59 PM
-- 50 marks: January 29, 2025 11.59 PM
-- 30 marks: After January 29, 2025 11.59 PM
+- 60 marks: January 29, 2025 11.59 PM
+- 50 marks: January 30, 2025 11.59 PM
+- 30 marks: After January 31, 2025 11.59 PM
 
 ## Important Note:
 
